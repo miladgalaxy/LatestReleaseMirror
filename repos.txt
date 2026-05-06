@@ -5,6 +5,8 @@
 
 
 
-therealaleph/MasterHttpRelayVPN-RUST|windows-amd64
+# therealaleph/MasterHttpRelayVPN-RUST|windows-amd64
+anonvector/SlipNet|full-release-universal
+
 
 
