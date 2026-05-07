@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="anonvector--slipnet"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### anonvector--SlipNet
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.17</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.17)
 
 | File | Size | Download |
 |------|------|----------|
-| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/miladgalaxy/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/miladgalaxy/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
