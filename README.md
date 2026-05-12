@@ -157,14 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="amirshaker000--netlify-relay"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### amirshaker000--netlify-relay
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.22</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.22)
+🔗 [source](https://github.com/amirshaker000/netlify-relay) – [<code><small>v2.0.0</small></code>](https://github.com/amirshaker000/netlify-relay/releases/tag/v2.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-universal-v1.9.22.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/miladgalaxy/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.22.apk) |
-| `mhrv-rs-windows-amd64.zip` | 7.4 MB | [⬇️ Download](https://raw.githubusercontent.com/miladgalaxy/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `vless-config-creator-v2.0.0.rar` | 93.0 MB | [⬇️ Download](https://raw.githubusercontent.com/miladgalaxy/LatestReleaseMirror/main/releases/amirshaker000/netlify-relay/vless-config-creator-v2.0.0.rar) |
 <!-- RELEASES_END -->
