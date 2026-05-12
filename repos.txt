@@ -8,7 +8,7 @@
 
 # anonvector/SlipNet|full-release-universal
 # therealaleph/MasterHttpRelayVPN-RUST|windows-amd64|android-universal
-amirshaker000/netlify-relay|vless-config-creator
+# amirshaker000/netlify-relay|vless-config-creator
 
 
 
